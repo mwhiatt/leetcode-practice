@@ -1,4 +1,4 @@
-# Valid Anagram
+# Valid Anagram (Easy)
 ## Description
 This problem requires us to check whether two inputted strings are valid anagrams of each other, that is, whether or not the have the same characters (and counts of those characters.)
 

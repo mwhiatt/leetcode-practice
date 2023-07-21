@@ -1,4 +1,4 @@
-# Contains Duplicate
+# Contains Duplicate (Easy)
 ## Description
 This simple problem simply requires that we check an array and return false if it is found to have two duplicate entries.
 ## Runtime
