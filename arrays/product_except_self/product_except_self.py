@@ -1,5 +1,5 @@
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
+    def productExceptSelf(self, nums):
         suffix = [0] * (len(nums) - 1) + [1]
         for i in range(len(nums) - 2, -1, -1):
             suffix[i] = suffix[i+1] * nums[i+1]
