@@ -1,4 +1,4 @@
-# Two Sum (Easy)
+# Valid Sudoku (Medium)
 ## Description
 We are given a 2D array of numbers and empty squares (represented by .) and must determine if the board is a valid sudoku suzzle.
 

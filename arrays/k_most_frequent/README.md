@@ -1,4 +1,4 @@
-# Contains Duplicate (Medium)
+# K Most Frequent (Medium)
 ## Description
 Given an array of integers, and an integer $k$. Return the $k$ most frequent integers in the array.
 ## Runtime
