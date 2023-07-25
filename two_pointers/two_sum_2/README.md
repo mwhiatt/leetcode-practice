@@ -1,4 +1,4 @@
-# Two Sum II (Sorted Array)
+# Two Sum II (Sorted Array) (Medium)
 ## Description
 Same as the Two Sum problem in the arrays section. We want to find two values in the input array that add up to the target value, then return their indices. 
 
