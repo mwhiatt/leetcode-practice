@@ -1,5 +1,7 @@
+import math
+
 class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
+    def evalRPN(self, tokens) -> int:
         if not tokens:
             return 0
         if len(tokens) == 1:
